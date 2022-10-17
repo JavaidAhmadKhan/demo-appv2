@@ -1,5 +1,0 @@
-const name = [
-    {
-        name: "javaid",
-    }
-]
